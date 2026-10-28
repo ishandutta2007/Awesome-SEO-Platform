@@ -39,6 +39,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Ubersuggest](https://neilpatel.com/ubersuggest/)** | Accessible keyword research, content ideas, site audits, and competitor tools with a free tier. | Starts at ~$29/mo | 3 daily searches | $10M+ ARR |
 | **[Mangools](https://mangools.com/)** | User-friendly suite (KWFinder, SERPChecker, LinkMiner, etc.) optimized for keyword research and competitive analysis. | Starts at ~$29/mo | 5 lookups/day | $5M+ ARR |
 | **[Serpstat](https://serpstat.com/)** | Affordable SEO and PPC research platform covering keywords, competitors, backlinks, and site audits. | Starts at ~$59/mo | 10 searches/day | $5M+ ARR |
+| **[SEOMathLab](https://seomathlab.com/)** | Free SEO forecasting, ROI and budget calculators with transparent formulas; includes a bulk forecast tool with CSV import and cashflow projections. | Free | 22 free calculators | - |
 
 ### Technical Crawlers & Audit Tools
 
