@@ -68,6 +68,9 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[SEOnaut](https://github.com/stjudewashere/seonaut)** [![GitHub stars](https://img.shields.io/github/stars/stjudewashere/seonaut?style=social&color=white)](https://github.com/stjudewashere/seonaut/stargazers)  
   Open-source technical SEO audit tool. Crawls sites, detects issues by severity (broken links, redirects, meta problems, headings), and generates actionable reports. Docker-ready.
 
+- **[FlashData Google and YouTube Research Data](https://github.com/rocosen/flashdata-mcp)** [![GitHub_Stars](https://img.shields.io/github/stars/rocosen/flashdata-mcp?style=social&color=white)](https://github.com/rocosen/flashdata-mcp/stargazers)  
+  MIT CLI and MCP data client for Google Search, News, Images, Shopping, Videos and Places plus YouTube search, extended search, metadata, transcripts, captions, channels and autocomplete in custom SEO research pipelines; API-key data queries consume paid FlashData Credits, while client installation is free.
+
 ### Additional Strong Open-Source Options
 - **All-In-One Free SEO Tool** collections and self-hosted suites offering 100+ modules for audits, rank tracking, local SEO, and AI visibility.
 - **Apache Nutch** and other large-scale open crawlers for custom data pipelines.
